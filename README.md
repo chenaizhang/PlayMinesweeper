@@ -1,0 +1,2 @@
+# PlayMinesweeper
+Auto play Minesweeper
